@@ -30,4 +30,4 @@ def prime_factorize(n):
     return a
 prime = str(prime_factorize(y))
 pr = prime.replace('[','').replace(']','')
-print('素因数分解 :',pr)
+print('素因数分解 :',mia.replace('.',''),'=',pr)
